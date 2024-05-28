@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 lqwekcfhbnend end 
+=======
+lqwekcfhbnbad bad 
+>>>>>>> second
